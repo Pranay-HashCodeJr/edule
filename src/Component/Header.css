@@ -1,0 +1,24 @@
+.Head{
+    padding-top:8px;
+    padding-bottom: 15px;
+    background-color: black;
+}
+.bten1{
+    float: right;
+    margin-top: 3px;
+    margin-right: 10px;
+    color:#000000;
+    background-color:greenyellow;
+}
+.Head2{
+    background-color: #051431;
+    color:white;
+    padding-top: 10px;
+    padding-bottom:0px;
+    font-size: 10px;
+}
+.Head2sub em{
+    color:greenyellow;
+}
+
+
